@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : Alona Zharova*
+title                    : Alona Zharova
 title_separator          : "-"
 name                     : &name "Alona Zharova"
 description              : &description "personal description"
@@ -16,10 +16,6 @@ url                      : https://alonazharova.github.io # the base hostname & 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AlonaZharova/alonazharova.github.io"
 
-sidebar:
-  - publications
-  - title: "Publications2" 
-    url: /publications/
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -77,6 +73,11 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
+
+sidebar:
+  - publications
+ # - title: "Publications2" 
+ #   url: /publications/
 
 
 # Site Settings
