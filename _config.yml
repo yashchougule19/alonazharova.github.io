@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : Alona Zharova"
+title                    : Alona Zharova
 title_separator          : "-"
 name                     : &name "Alona Zharova"
 description              : &description "personal description"
@@ -17,13 +17,13 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AlonaZharova/alonazharova.github.io"
 
 sidebar:
-  - getting-started
+  - publications
   - label: Dev Docs
     children:
       - doc-1
       - doc-2
   - deployment
-  - title: "Title" 
+  - title: "Publications2" 
     url: /publications/
 
 # Site Author - The following control what appear as part of the author content on the side bar.
