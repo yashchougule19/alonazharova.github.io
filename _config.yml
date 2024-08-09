@@ -77,7 +77,7 @@ author:
 sidebar:
  # - publications
   - title: "Publications2" 
- #   url: /publications/
+    url: /publications/
 
 
 # Site Settings
