@@ -74,6 +74,11 @@ author:
   youtube          : # Username
   zhihu            : # URL
 
+  links:
+    - label: "Made Mistakes"
+      icon: "fas fa-fw fa-link"
+      url: "https://mademistakes.com"
+
 sidebar:
  # - publications
   - title: "Publications2" 
