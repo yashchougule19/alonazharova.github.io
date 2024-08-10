@@ -9,12 +9,13 @@ redirect_from:
 
 Short bio text
 
-## Latest News
+Latest News
 ======
   * News 1
   * News 2
   * News 3
-[More](https://academicpages.github.io/talkmap.html).
+
+[More](https://academicpages.github.io/talkmap.html)
 
 Research Projects
 ======

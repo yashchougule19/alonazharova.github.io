@@ -23,7 +23,6 @@ repository               : "AlonaZharova/alonazharova.github.io"
 
 sidebar:
   nav:
-    - main
     - docs
 
 
