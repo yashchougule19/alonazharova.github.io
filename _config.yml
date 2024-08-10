@@ -22,7 +22,9 @@ repository               : "AlonaZharova/alonazharova.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 
 sidebar:
-  nav: "docs"
+  nav:
+    - main
+    - docs
 
 
 
