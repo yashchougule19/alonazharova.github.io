@@ -22,9 +22,13 @@ repository               : "AlonaZharova/alonazharova.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 
 sidebar:
- # - publications
-  - title: "Publications2" 
-    url: /publications/
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+
 
 
 # Site Settings
