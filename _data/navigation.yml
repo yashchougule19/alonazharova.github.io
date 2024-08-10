@@ -1,9 +1,26 @@
 # main links links
 
+main:
 
-docs:
-  - title: Getting Started
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+  - title: "Research Projects"
+    url: /projects/
+
+  - title: "Awards and Grants"
+    url: /grants/
+
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "Teaching"
+    url: /teaching/
+ 
+ # - title: "Transfer"
+ #   url: /transfer/    
+
+  - title: "Invited Talks"
+    url: /talks/    
+    
+  - title: "Community Engagement"
+    url: /community/
+
 
