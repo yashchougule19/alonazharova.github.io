@@ -2,25 +2,25 @@
 
 main:
 
-  - title: "Research Projects"
+  - title: "Projects"
     url: /projects/
-
-  - title: "Awards and Grants"
-    url: /grants/
 
   - title: "Publications"
     url: /publications/
-    
+
   - title: "Teaching"
     url: /teaching/
- 
+
+  - title: "Grants"
+    url: /grants/
+    
  # - title: "Transfer"
  #   url: /transfer/    
 
-  - title: "Invited Talks"
+  - title: "Talks"
     url: /talks/    
     
-  - title: "Community Engagement"
+  - title: "Community"
     url: /community/
 
 
