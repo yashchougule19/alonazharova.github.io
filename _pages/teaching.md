@@ -4,7 +4,8 @@ permalink: /
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
-id: teaching
+redirect_from:
+  - /teaching
 ---
 
 
