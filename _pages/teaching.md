@@ -13,11 +13,11 @@ redirect_from:
 
 |  Semester  |  Title  | Type | Details |
 | ------ | ------ | ------ | ------ |
-| WS 2023/2024	| Seminar Information Systems | Implementation project | MSc, 24 students |
-	
-SS 2023	Strategie, Organisation und Information Technology, Lecture & Exercise (BSc, ca. 400 students), HU Berlin
-
-SS 2023	Introduction to Programming in Java, Lecture & Exercise (BSc, ca. 200 students), HU Berlin
+| WS 2024/2025 | Seminar Wirtschaftsinformatik | Seminar /Implementation project | BSc, 24 students |
+| SS 2024 | | Introduction to Programming in Java | Lecture & Exercise | BSc, ca. 200 students |
+| WS 2023/2024 | Seminar Information Systems | Implementation project | MSc, 24 students |
+| SS 2023	| Strategie, Organisation und Informationstechnologie |  Lecture & Exercise | BSc, ca. 400 students| 
+| SS 2023	Introduction to Programming in Java, Lecture & Exercise (BSc, ca. 200 students), HU Berlin
 	
 SS 2023	Seminar IT Security and Privacy (MSc, 40 students), HU Berlin
 	
@@ -59,6 +59,14 @@ SS 2016
 International Summer School in Economics and Management (ISSEM) of the HU Berlin in Havana, Cuba
 
 WS 2016/2017	Statistics II, Exercise (BSc, 20 students), HU Berlin
+
+
+
+
+Introduction to Tackling Climate Change with Machine Learning, Lecture (10 students), International Summer School in Economics and Management (ISSEM) of the HU in Havana (Cuba), 2023
+
+Management Simulation, Simulation Game (35 students), International Summer School in Economics and Management (ISSEM) of the HU in Havana (Cuba), 2015-2017, 2019
+
 
 SS 2015
 	Management Simulation, Simulation Game (BSc & MSc, 30 students)
