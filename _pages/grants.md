@@ -11,7 +11,6 @@ redirect_from:
 
 ## Awards
 
-
 |             |    |
 | --------         | ------ |
 | 2025 | Individual Global Partnership **Grant** for co-funding of a **Research stay** at the Australian National University (ANU), "Recommendation Systems for nudging households in Germany and Australia towards energy-efficient behavior to reduce CO2 emissions", by the DFG through the Strategic Partnerships Program of the Excellence of the HU (**2500 €**) |
@@ -25,51 +24,21 @@ redirect_from:
 | 2006	| **Gold Medal** for the best Abitur performance|
 
 
+## Third-Party Funds Projects
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+|          |    |
+| -------- | ------ |
+|ongoing |	Application for an International Research Training Group (IRTG) “AI Optimization and Forecasting in the Digital Era – Theory, Methods, and Algorithms” to the German Research Foundation (DFG) (state – submitted; my role – Co-PI) |
+| ongoing	| Application for an Interdisciplinary Center “GreenCompute” together with Ulf Leser (HU) and the colleagues to the Research Service Center of the HU (state – submitted; applied funds – ca. 0.5 Mio. € in total; my role - Participating Researcher)|
+| 2024 – 2025	| Transfer project “Plattform zur Förderung von Energieeffizienz und CO2-Reduktion in Privathaushalten” funded by the Joachim Herz Stiftung (80000€ in total; my role - Sole Applicant)|	
+|2023 –  2026	| Scientific Network “Management AI: AI algorithms for decision-making in businesses and organizations” together with Stefan Feuerriegel (LMU) and the colleagues funded by the DFG (36900 € in total; my role – Participating Researcher)|	
+|2023 – 2026	| Research project “AI for Energy Finance” funded by the European Union through the Romania's National Recovery and Resilience Plan (ca. 1.4 Mio. € in total; my role – Co-PI) |
+| 2021 – 2023	| Research project “AI Marketer” funded by the Investitionsbank Berlin (IBB), funded by the Program for promoting Research, Innovations and Technologies (ProFIT), (296530 € in total; my role – Co-PI) |
+| 2018 – 2020	| Joint research project HU-NUS in “Augmented Intelligence in Digital Society”, funded by the National University Singapore (NUS) (16500 € in total; my role – Co-PI)|
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Further Third-Party Funds Experience
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+|          |    |
+| -------- | ------ |
+|2017	|Coordination of the application for prolongation of the International Research Training Group (IRTG) 1792 “High Dimensional Nonstationary Time Series” to the DFG (successful; approval for 4.5 years 2018-2022, 3.4 Mio. € in total)|
+| 2015 – 2016	|Coordination of the application for a Collaborative Research Center “Digital Economy and Decision Analytics” to the DFG (decision “C”)|
