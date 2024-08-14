@@ -28,7 +28,7 @@ redirect_from:
 
 |          |    |
 | -------- | ------ |
-|ongoing |	Application for an International Research Training Group (IRTG) “AI Optimization and Forecasting in the Digital Era – Theory, Methods, and Algorithms” to the German Research Foundation (DFG) (state – submitted; my role – Co-PI) |
+|ongoing |	Application for an International Research Training Group (IRTG) “AI Optimization and Forecasting in the Digital Era – Theory, Methods, and Algorithms” together with Thorsten Koch (TU and ZIB) and the colleagues to the German Research Foundation (DFG) (state – submitted; my role – Co-PI) |
 | ongoing	| Application for an Interdisciplinary Center “GreenCompute” together with Ulf Leser (HU) and the colleagues to the Research Service Center of the HU (state – submitted; applied funds – ca. 0.5 Mio. € in total; my role - Participating Researcher)|
 | 2024 – 2025	| Transfer project “Plattform zur Förderung von Energieeffizienz und CO2-Reduktion in Privathaushalten” funded by the Joachim Herz Stiftung (80000€ in total; my role - Sole Applicant)|	
 |2023 –  2026	| Scientific Network “Management AI: AI algorithms for decision-making in businesses and organizations” together with Stefan Feuerriegel (LMU) and the colleagues funded by the DFG (36900 € in total; my role – Participating Researcher)|	
@@ -40,5 +40,5 @@ redirect_from:
 
 |          |    |
 | -------- | ------ |
-|2017	|Coordination of the application for prolongation of the International Research Training Group (IRTG) 1792 “High Dimensional Nonstationary Time Series” to the DFG (successful; approval for 4.5 years 2018-2022, 3.4 Mio. € in total)|
+|2017	|**Coordination** of the application for prolongation of the International Research Training Group (IRTG) 1792 “High Dimensional Nonstationary Time Series” to the **DFG** (successful; approval for 4.5 years 2018-2022, **3.4 Mio. €** in total)|
 | 2015 – 2016	|Coordination of the application for a Collaborative Research Center “Digital Economy and Decision Analytics” to the DFG (decision “C”)|
