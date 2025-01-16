@@ -72,6 +72,18 @@
   }
 }
 
+/* Dropdown styles for the Contact tab */
+.masthead__menu-item .dropdown {
+  display: none;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.masthead__menu-item:hover .dropdown {
+  display: block;
+}
+
 /*
    Author profile and links
    ========================================================================== */
