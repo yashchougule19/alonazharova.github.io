@@ -12,7 +12,7 @@ title                    : Alona Zharova
 title_separator          : "-"
 name                     : &name "Alona Zharova"
 description              : &description "personal website"
-url                      : https://alonazharova.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yashchougule19.github.io/alonazharova.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AlonaZharova/alonazharova.github.io"
 
