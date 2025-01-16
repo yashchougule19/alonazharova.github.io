@@ -4,6 +4,9 @@
   <div class="sidebar sticky">
     <!-- Navigation menu -->
     <nav id="site-nav" class="greedy-nav">
+      <!-- <button class="hidden" count="'0">
+        <div class="navicon"></div>
+      </button> -->
       <ul class="visible-links">
         <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
         {% for link in site.data.navigation.main %}
@@ -14,15 +17,10 @@
           {% endif %}
           <li class="masthead__menu-item">
             <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
-            {% if link.title == "Contact" %}
-              <ul class="dropdown">
-                {% include author-profile.html %}
-              </ul>
-            {% endif %}
           </li>
         {% endfor %}
       </ul>
-      <ul class="hidden-links hidden"></ul> <!-- Ensure this ul is properly closed -->
+      <ul class="hidden-links hidden"></ul>
     </nav>
 
     {% if page.author_profile or layout.author_profile %}
