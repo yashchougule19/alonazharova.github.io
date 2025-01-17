@@ -67,6 +67,18 @@ $(document).ready(function(){
     $(".author__urls-wrapper button").toggleClass("open");
   });
 
+  // Add the new follow button functionality
+  var followButton = document.getElementById("follow-button");
+  var contactDetails = document.getElementById("contact-details");
+
+  followButton.addEventListener("click", function() {
+    if (contactDetails.style.display === "none" || contactDetails.style.display === "") {
+      contactDetails.style.display = "block";
+    } else {
+      contactDetails.style.display = "none";
+    }
+  });
+
   // init smooth scroll, this needs to be slightly more than then fixed masthead height
   $("a").smoothScroll({offset: -65});
 

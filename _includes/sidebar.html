@@ -23,9 +23,14 @@
       <ul class="hidden-links hidden"></ul>
     </nav>
 
-    {% if page.author_profile or layout.author_profile %}
+    <!-- Follow button -->
+    <button id="follow-button" class="btn btn--inverse">Follow</button>
+
+    <!-- Contact details container -->
+    <div id="contact-details" class="contact-details">
       {% include author-profile.html %}
-    {% endif %}
+    </div>
+
     {% if page.sidebar %}
       {% for s in page.sidebar %}
         {% if s.image %}

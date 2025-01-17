@@ -169,14 +169,14 @@
     }
   }
 
-  @include breakpoint($x-small) {
+  @include breakpoint($large) {
     display: block;
   }
 
   button {
     margin-bottom: 0;
 
-    @include breakpoint($x-small) {
+    @include breakpoint($large) {
       display: none;
     }
   }
@@ -260,7 +260,7 @@
   }
 }
 
-// /* Ensure the contact details are hidden by default */
-// .contact-details {
-//   display: none;
-// }
+/* Ensure the contact details are hidden by default */
+.contact-details {
+  display: none;
+}
