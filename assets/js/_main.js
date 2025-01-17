@@ -4,8 +4,6 @@
 
 $(document).ready(function(){
   // Sticky footer
-  // This code adjusts the bottom margin of the body to ensure the footer is always visible.
-  // It recalculates the margin when the window is resized.
   var bumpIt = function() {
       $("body").css("margin-bottom", $(".page__footer").outerHeight(true));
     },
@@ -21,9 +19,8 @@ $(document).ready(function(){
       didResize = false;
       bumpIt();
     }
-  }, 250);
-
-  // FitVids init to make embedded videos responsive
+  }, 250)
+  // FitVids init
   $("#main").fitVids();
 
   // init sticky sidebar
@@ -67,18 +64,6 @@ $(document).ready(function(){
     $(".author__urls-wrapper button").toggleClass("open");
   });
 
-  // Add the new follow button functionality
-  var followButton = document.getElementById("follow-button");
-  var contactDetails = document.getElementById("contact-details");
-
-  followButton.addEventListener("click", function() {
-    if (contactDetails.style.display === "none" || contactDetails.style.display === "") {
-      contactDetails.style.display = "block";
-    } else {
-      contactDetails.style.display = "none";
-    }
-  });
-
   // init smooth scroll, this needs to be slightly more than then fixed masthead height
   $("a").smoothScroll({offset: -65});
 
@@ -111,4 +96,17 @@ $(document).ready(function(){
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+  var followButton = document.getElementById("follow-button");
+  var contactDetails = document.getElementById("contact-details");
+
+  followButton.addEventListener("click", function() {
+    if (contactDetails.style.display === "none" || contactDetails.style.display === "") {
+      contactDetails.style.display = "block";
+    } else {
+      contactDetails.style.display = "none";
+    }
+  });
 });
