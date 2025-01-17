@@ -4,6 +4,8 @@
 
 $(document).ready(function(){
   // Sticky footer
+  // This code adjusts the bottom margin of the body to ensure the footer is always visible.
+  // It recalculates the margin when the window is resized.
   var bumpIt = function() {
       $("body").css("margin-bottom", $(".page__footer").outerHeight(true));
     },
@@ -20,14 +22,15 @@ $(document).ready(function(){
       bumpIt();
     }
   }, 250);
-  // FitVids init
+
+  // FitVids init to make embedded videos responsive
   $("#main").fitVids();
 
   // init sticky sidebar
   $(".sticky").Stickyfill();
 
   var stickySideBar = function(){
-    const MINIMUM_WIDTH = 1024;
+    const MINIMUM_WIDTH = 0;
 
     // Adjust if the follow button is shown based upon screen size
     var width = $(window).width();
