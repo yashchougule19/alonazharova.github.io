@@ -30,7 +30,7 @@ $(document).ready(function(){
   $(".sticky").Stickyfill();
 
   var stickySideBar = function(){
-    const MINIMUM_WIDTH = 0;
+    const MINIMUM_WIDTH = 1024;
 
     // Adjust if the follow button is shown based upon screen size
     var width = $(window).width();
