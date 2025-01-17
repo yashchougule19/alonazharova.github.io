@@ -99,8 +99,8 @@ $(document).ready(function(){
 });
 
 document.addEventListener("DOMContentLoaded", function() {
-  var followButton = document.getElementById("follow-button");
-  var contactDetails = document.getElementById("contact-details");
+  const followButton = document.getElementById("follow-button");
+  const contactDetails = document.getElementById("contact-details");
 
   followButton.addEventListener("click", function() {
     if (contactDetails.style.display === "none" || contactDetails.style.display === "") {
