@@ -128,12 +128,12 @@
 //   font-size: $type-size-5;
 // }
 
-.sidebar .author__desktop {
-  display: none;
-  @media screen and (min-width: 1024px) {
-    display: block;
-  }
-}
+// .sidebar .author__desktop {
+//   display: none;
+//   @media screen and (min-width: 1024px) {
+//     display: block;
+//   }
+// }
 
 // .author__pronouns {
 //   margin: 0;
@@ -154,20 +154,20 @@
 // }
 
 /* Ensure the contact details are hidden by default */
-.contact-details {
-  display: none;
-}
+// .contact-details {
+//   display: none;
+// }
 
-.author__urls-wrapper {
-  min-width: 15em;
-  position: relative;
-  margin: 2em;
+// .author__urls-wrapper {
+//   min-width: 15em;
+//   position: relative;
+//   margin: 2em;
 
-}
+// }
 
-.author__urls-wrapper *{
-  box-sizing: border-box;
-}
+// .author__urls-wrapper *{
+//   box-sizing: border-box;
+// }
 // .author__urls-wrapper {
 //   position: relative;
 //   display: table-cell;
