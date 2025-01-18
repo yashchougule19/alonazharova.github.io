@@ -158,43 +158,43 @@
 //   display: none;
 // }
 
-.author__urls-wrapper {
-  min-width: 15em;
-  position: relative;
-  margin: 2em;
+// .author__urls-wrapper {
+//   min-width: 15em;
+//   position: relative;
+//   margin: 2em;
 
-}
+// }
 
-.author__urls-wrapper *{
-  box-sizing: border-box;
-}
-.author__urls-wrapper {
-  position: relative;
-  display: table-cell;
-  vertical-align: middle;
-  font-family: $sans-serif;
-  font-size: $type-size-7;
-  z-index: 10;
-  cursor: pointer;
+// .author__urls-wrapper *{
+//   box-sizing: border-box;
+// }
+// .author__urls-wrapper {
+//   position: relative;
+//   display: table-cell;
+//   vertical-align: middle;
+//   font-family: $sans-serif;
+//   font-size: $type-size-7;
+//   z-index: 10;
+//   cursor: pointer;
 
-  li:last-child {
-    a {
-      margin-bottom: 0;
-    }
-  }
+//   li:last-child {
+//     a {
+//       margin-bottom: 0;
+//     }
+//   }
 
-  @include breakpoint($large) {
-    display: block;
-  }
+//   @include breakpoint($large) {
+//     display: block;
+//   }
 
-  button {
-    margin-bottom: 0;
+//   button {
+//     margin-bottom: 0;
 
-    @include breakpoint($large) {
-      display: none;
-    }
-  }
-}
+//     @include breakpoint($large) {
+//       display: none;
+//     }
+//   }
+// }
 
 .author__urls {
   display: none;
