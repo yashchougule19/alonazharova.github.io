@@ -158,118 +158,118 @@
 //   display: none;
 // }
 
-// .author__urls-wrapper {
-//   min-width: 15em;
-//   position: relative;
-//   margin: 2em;
+.author__urls-wrapper {
+  min-width: 15em;
+  position: relative;
+  margin: 2em;
 
-// }
+}
 
-// .author__urls-wrapper *{
-//   box-sizing: border-box;
-// }
-// .author__urls-wrapper {
-//   position: relative;
-//   display: table-cell;
-//   vertical-align: middle;
-//   font-family: $sans-serif;
-//   font-size: $type-size-7;
-//   z-index: 10;
-//   cursor: pointer;
+.author__urls-wrapper *{
+  box-sizing: border-box;
+}
+.author__urls-wrapper {
+  position: relative;
+  display: table-cell;
+  vertical-align: middle;
+  font-family: $sans-serif;
+  font-size: $type-size-7;
+  z-index: 10;
+  cursor: pointer;
 
-//   li:last-child {
-//     a {
-//       margin-bottom: 0;
-//     }
-//   }
+  li:last-child {
+    a {
+      margin-bottom: 0;
+    }
+  }
 
-//   @include breakpoint($large) {
-//     display: block;
-//   }
+  @include breakpoint($large) {
+    display: block;
+  }
 
-//   button {
-//     margin-bottom: 0;
+  button {
+    margin-bottom: 0;
 
-//     @include breakpoint($large) {
-//       display: none;
-//     }
-//   }
-// }
+    @include breakpoint($large) {
+      display: none;
+    }
+  }
+}
 
-// .author__urls {
-//   display: none;
-//   position: absolute;
-//   right: 0;
-//   margin-top: 15px;
-//   padding: 10px;
-//   list-style-type: none;
-//   border: 1px solid $border-color;
-//   border-radius: $border-radius;
-//   background: #fff;
-//   z-index: 20;
-//   box-shadow: 0 0 10px rgba(#000, 0.25);
-//   cursor: default;
+.author__urls {
+  display: none;
+  position: absolute;
+  right: 0;
+  margin-top: 15px;
+  padding: 10px;
+  list-style-type: none;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  background: #fff;
+  z-index: 20;
+  box-shadow: 0 0 10px rgba(#000, 0.25);
+  cursor: default;
 
-//   @include breakpoint($large) {
-//     display: block;
-//     position: relative;
-//     margin: 0;
-//     padding: 0;
-//     border: 0;
-//     background: transparent;
-//     box-shadow: none;
-//   }
+  @include breakpoint($large) {
+    display: block;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+  }
 
-//   &:before {
-//     display: block;
-//     content: "";
-//     position: absolute;
-//     top: -11px;
-//     left: calc(50% - 10px);
-//     width: 0;
-//     border-style: solid;
-//     border-width: 0 10px 10px;
-//     border-color: $border-color transparent;
-//     z-index: 0;
+  &:before {
+    display: block;
+    content: "";
+    position: absolute;
+    top: -11px;
+    left: calc(50% - 10px);
+    width: 0;
+    border-style: solid;
+    border-width: 0 10px 10px;
+    border-color: $border-color transparent;
+    z-index: 0;
 
-//     @include breakpoint($large) {
-//       display: none;
-//     }
-//   }
+    @include breakpoint($large) {
+      display: none;
+    }
+  }
 
-//   &:after {
-//     display: block;
-//     content: "";
-//     position: absolute;
-//     top: -10px;
-//     left: calc(50% - 10px);
-//     width: 0;
-//     border-style: solid;
-//     border-width: 0 10px 10px;
-//     border-color: #fff transparent;
-//     z-index: 1;
+  &:after {
+    display: block;
+    content: "";
+    position: absolute;
+    top: -10px;
+    left: calc(50% - 10px);
+    width: 0;
+    border-style: solid;
+    border-width: 0 10px 10px;
+    border-color: #fff transparent;
+    z-index: 1;
 
-//     @include breakpoint($large) {
-//       display: none;
-//     }
-//   }
+    @include breakpoint($large) {
+      display: none;
+    }
+  }
 
-//   li {
-//     white-space: nowrap;
-//   }
+  li {
+    white-space: nowrap;
+  }
 
-//   a {
-//     display: block;
-//     margin-bottom: 5px;
-//     padding-right: 5px;
-//     padding-top: 2px;
-//     padding-bottom: 2px;
-//     color: inherit;
-//     font-size: $type-size-5;
-//     text-decoration: none;
+  a {
+    display: block;
+    margin-bottom: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: inherit;
+    font-size: $type-size-5;
+    text-decoration: none;
 
-//     &:hover {
-//       text-decoration: underline;
-//     }
-//   }
-// }
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
